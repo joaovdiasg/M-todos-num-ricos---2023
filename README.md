@@ -3,6 +3,8 @@ Eletiva de métodos numéricos realizada no mestrado de economia da FGV em 2023.
 
 Professor: Cézar Santos
 
+Os exercícios foram resolvidos em julia, com excessão da primeira lista que também foi resolvida em R.
+
 Lista 1: Discretizar processos contínuos
 
 Lista 2: Solução de um modelo SBC
