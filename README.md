@@ -11,4 +11,5 @@ Lista 2: Solução de um modelo SBC
 - endogenous grid method;
   
 Lista 3: Integração numérica
+
 Lista 4: Solucionar numericamente economia com agentes heterogêneos
